@@ -1,0 +1,14 @@
+:root {
+--red: #e80d0d;
+ --orange: #f98500;
+ --yellow: #ffc600;
+ --green: #10a503;
+ --bluegreen: #ade0d4;
+ --blue: #0071b2;
+ --purple: #6a00b2;
+ --pink: #c497b6;
+ --grey: #53565A;
+ --black: #272727;
+ 
+ --font-one: 'Federo', sans-serif;
+}

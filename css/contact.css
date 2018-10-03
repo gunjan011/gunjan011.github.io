@@ -1,0 +1,11 @@
+#contact {
+    font-family: var(--font-one);
+    margin-left: 1%;
+    margin-top: 65%;
+}
+
+.control-group {
+    display: inline-block;
+    margin: 2%;
+    padding: 3px;
+}
