@@ -1,11 +1,31 @@
-#contact {
+h2 {
     font-family: var(--font-one);
-    margin-left: 1%;
-    margin-top: 65%;
+    margin-right: 10px;
+    margin-bottom: 10%;
 }
 
 .control-group {
-    display: inline-block;
-    margin: 2%;
-    padding: 3px;
+    font-family: var(--font-one);
+    /*display: inline-block;*/
+}
+
+.form-control {
+    font-family: var(--font-one);
+   text-align: center;
+   display: inline;
+   /* margin-left: 50%;*/
+}
+
+button {
+    font-family: var(--font-one);
+    margin-left: 60%;  
+}
+/*.text-center {
+    margin-left: 50%;
+}*/
+form {
+    margin: 0 auto;
+}
+button{
+    margin: 0 auto;
 }

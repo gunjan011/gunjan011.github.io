@@ -2,12 +2,12 @@
     background-color: transparent !important;
     background-size: cover;
     text-align: center;
-    margin-top: -2.7%;
+    margin-top: -3%;
     font-family: var(--font-one);
     animation: type 5s steps(200);
     overflow: hidden;
     white-space: nowrap;
-    width: 45ch;
+    width: 125ch;
    
 }
  @keyframes type {
@@ -15,7 +15,7 @@
             width: 0ch;
         }
         100% {
-            width: 45ch;
+            width: 125ch;
         }
 }
 
