@@ -2,10 +2,19 @@
     font-size: 20px;
     color: black;
     font-family: var(--font-one);
-    text-align: right;
-    margin-top: 65%;
-}
+    text-align: center;
+    /* margin-top: 65%; */
+} 
 
 #centerText{
     text-align: center;
+}
+#about {
+    font-family: var(--font-one);
+    font-size: 17px;
+    margin-left: 30em;
+    margin-top: 20em;
+    background-color: rgba(158, 201, 132, 0.742); 
+    padding: 5px;
+    border: solid black 2px
 }
